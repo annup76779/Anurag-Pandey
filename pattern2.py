@@ -65,3 +65,4 @@ def main():
         print('Worng selection of rows for the perfect diamond.')
 if __name__=="__main__":
     main()
+    print('Hello Pandey ji ke bhaiya!s')
